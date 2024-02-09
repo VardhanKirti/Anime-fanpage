@@ -1,0 +1,87 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  font-size: 16px;
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  line-height: 1.8em;
+  color: #666;
+}
+.img1 {
+  background-image: url(naruto-anime-uzumaki-naruto-jiraiya-naruto-shippuuden-hd-wallpaper-preview.jpg);
+  min-height: 100%;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.ptext {
+    position: absolute;
+    top: 40%;
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    letter-spacing: 9px;
+    text-transform: uppercase;
+  }
+  .textBg {
+    background: #313534;
+    width:30px;
+    color: #fff;
+    padding: 20px;
+  }
+  .JIRAIYA {
+    padding: 50px 80px;
+    text-align: center;
+  }
+  .h2{
+    background-color: #f4f4f4;
+    color: #666;
+  }
+  .KAKASHI{
+    padding: 50px 80px;
+    text-align: center;
+
+  }
+  .img2 {
+    background-image: url(naruto-kakashi-hatake-hd-wallpaper-preview.jpg);
+    min-height: 100%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  .ITACHI{
+    padding: 50px 80px;
+    text-align: center;
+
+  }
+  .img3 {
+    background-image: url(uchiha-itachi-naruto-shippuuden-anbu-silhouette-wallpaper-preview.jpg);
+    min-height: 100%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  .MADARA{
+    padding: 50px 80px;
+    text-align: center;
+
+  }
+  .img4 {
+    background-image: url(uchiha-madara-naruto-shippuuden-wallpaper-preview.jpg);
+    min-height: 100%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  
+  
